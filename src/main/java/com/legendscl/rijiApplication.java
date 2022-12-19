@@ -13,6 +13,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class rijiApplication {
     public static void main(String[] args) {
         SpringApplication.run(rijiApplication.class,args);
-        log.info("启动成功");
+        log.info("启动成功");//
     }
 }
